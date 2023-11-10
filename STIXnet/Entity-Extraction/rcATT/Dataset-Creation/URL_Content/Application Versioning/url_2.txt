@@ -1,0 +1,1 @@
+Threat Category: Supply Chain ID: SPC-20 Threat Description: An adversary with access to a software support activity can substitute malicious software for a legitimate component during a software upgrade.1 Threat Origin Supply Chain Attack Framework and Attack Patterns 1 Exploit Examples Not Applicable CVE Examples Not Applicable Possible Countermeasures References

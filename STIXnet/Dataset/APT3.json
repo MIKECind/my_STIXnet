@@ -1,0 +1,606 @@
+{
+  "id": 375,
+  "annotations": [
+    {
+      "id": 45,
+      "completed_by": 9,
+      "result": [
+        {
+          "id": "9eBGmefRph",
+          "type": "labels",
+          "value": {
+            "end": 4,
+            "text": "APT3",
+            "start": 0,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "rxj-HmQvPj",
+          "type": "labels",
+          "value": {
+            "end": 589,
+            "text": "APT3",
+            "start": 585,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "IjH4m1g22L",
+          "type": "labels",
+          "value": {
+            "end": 899,
+            "text": "APT3",
+            "start": 895,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "nolLdKvLgx",
+          "type": "labels",
+          "value": {
+            "end": 1165,
+            "text": "APT3",
+            "start": 1161,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "o2IV3EXywe",
+          "type": "labels",
+          "value": {
+            "end": 1448,
+            "text": "APT3",
+            "start": 1444,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "N4j0rXMUfv",
+          "type": "labels",
+          "value": {
+            "end": 647,
+            "text": "APT3",
+            "start": 643,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "01JrGjJWBR",
+          "type": "labels",
+          "value": {
+            "end": 1218,
+            "text": "APT3",
+            "start": 1214,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "gc54IXdLH3",
+          "type": "labels",
+          "value": {
+            "end": 1507,
+            "text": "APT3",
+            "start": 1503,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "Eq85NyKYHX",
+          "type": "labels",
+          "value": {
+            "end": 1290,
+            "text": "APT3",
+            "start": 1286,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "AxPteDkUk6",
+          "type": "labels",
+          "value": {
+            "end": 706,
+            "text": "APT3",
+            "start": 702,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "QSGNS5u66X",
+          "type": "labels",
+          "value": {
+            "end": 1029,
+            "text": "APT3",
+            "start": 1025,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "p-pUSCo2bx",
+          "type": "labels",
+          "value": {
+            "end": 494,
+            "text": "APT3",
+            "start": 490,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "bJaWpHHZHl",
+          "type": "labels",
+          "value": {
+            "end": 804,
+            "text": "APT3",
+            "start": 800,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "xypHhX4P4x",
+          "type": "labels",
+          "value": {
+            "end": 1364,
+            "text": "APT3",
+            "start": 1360,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "JdGgjAWkmG",
+          "type": "labels",
+          "value": {
+            "end": 1707,
+            "text": "APT3",
+            "start": 1703,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "0qthXc3G3I",
+          "type": "labels",
+          "value": {
+            "end": 383,
+            "text": "APT3",
+            "start": 379,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "DZNAhD0OMf",
+          "type": "labels",
+          "value": {
+            "end": 1628,
+            "text": "APT3",
+            "start": 1624,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "QzQRR3b_U6",
+          "type": "labels",
+          "value": {
+            "end": 1105,
+            "text": "APT3",
+            "start": 1101,
+            "labels": [
+              "intrusion-set"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "HcxKJ0GmPY",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "text": "China",
+            "start": 71,
+            "labels": [
+              "location"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "7ggLMom-3e",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "text": "China",
+            "start": 10,
+            "labels": [
+              "location"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "AF5Qiie9V3",
+          "type": "labels",
+          "value": {
+            "end": 319,
+            "text": "US",
+            "start": 317,
+            "labels": [
+              "location"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "q6j-hI0v2N",
+          "type": "labels",
+          "value": {
+            "end": 377,
+            "text": "Hong Kong",
+            "start": 368,
+            "labels": [
+              "location"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "W1DT9Amj00",
+          "type": "labels",
+          "value": {
+            "end": 824,
+            "text": "PowerShell",
+            "start": 814,
+            "labels": [
+              "attack-pattern"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "imJn_ikB1O",
+          "type": "labels",
+          "value": {
+            "end": 1771,
+            "text": "PowerShell",
+            "start": 1761,
+            "labels": [
+              "attack-pattern"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "FVAmofL1kK",
+          "type": "labels",
+          "value": {
+            "end": 1572,
+            "text": "CVE-2015-3113",
+            "start": 1559,
+            "labels": [
+              "vulnerability"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "M7rzQWSuAl",
+          "type": "labels",
+          "value": {
+            "end": 736,
+            "text": "brute force",
+            "start": 725,
+            "labels": [
+              "attack-pattern"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "yR4i8-4_ft",
+          "type": "labels",
+          "value": {
+            "end": 798,
+            "text": "credentials",
+            "start": 787,
+            "labels": [
+              "attack-pattern"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "HcOKqvdnFY",
+          "type": "labels",
+          "value": {
+            "end": 1143,
+            "text": "new service",
+            "start": 1132,
+            "labels": [
+              "attack-pattern"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "A2bZyq6Jq1",
+          "type": "labels",
+          "value": {
+            "end": 1249,
+            "text": "Microsoft Office",
+            "start": 1233,
+            "labels": [
+              "identity"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "HR78fm59Nj",
+          "type": "labels",
+          "value": {
+            "end": 1426,
+            "text": "C:\\Windows\\System32\\sethc.exe",
+            "start": 1397,
+            "labels": [
+              "file_paths"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "tSlz0-kkwz",
+          "type": "labels",
+          "value": {
+            "end": 944,
+            "text": "cmd.exe",
+            "start": 937,
+            "labels": [
+              "tool"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "id": "hyIiRYNWGR",
+          "type": "labels",
+          "value": {
+            "end": 96,
+            "text": "State",
+            "start": 91,
+            "labels": [
+              "location"
+            ]
+          },
+          "origin": "manual",
+          "to_name": "text",
+          "from_name": "label"
+        },
+        {
+          "type": "relation",
+          "to_id": "M7rzQWSuAl",
+          "labels": [
+            "uses"
+          ],
+          "from_id": "AxPteDkUk6",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "W1DT9Amj00",
+          "labels": [
+            "uses"
+          ],
+          "from_id": "bJaWpHHZHl",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "IjH4m1g22L",
+          "labels": [
+            "used-by"
+          ],
+          "from_id": "tSlz0-kkwz",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "QzQRR3b_U6",
+          "labels": [
+            "used-by"
+          ],
+          "from_id": "HcOKqvdnFY",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "7ggLMom-3e",
+          "labels": [
+            "originates-from"
+          ],
+          "from_id": "9eBGmefRph",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "hyIiRYNWGR",
+          "labels": [
+            "originates-from"
+          ],
+          "from_id": "9eBGmefRph",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "yR4i8-4_ft",
+          "labels": [
+            "uses"
+          ],
+          "from_id": "AxPteDkUk6",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "A2bZyq6Jq1",
+          "labels": [
+            "targets"
+          ],
+          "from_id": "01JrGjJWBR",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "gc54IXdLH3",
+          "labels": [
+            "targeted-by"
+          ],
+          "from_id": "FVAmofL1kK",
+          "direction": "right"
+        },
+        {
+          "type": "relation",
+          "to_id": "imJn_ikB1O",
+          "labels": [
+            "uses"
+          ],
+          "from_id": "JdGgjAWkmG",
+          "direction": "right"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2022-07-22T07:14:10.002856Z",
+      "updated_at": "2022-07-22T07:14:10.002954Z",
+      "lead_time": 815.953,
+      "prediction": {},
+      "result_count": 0,
+      "task": 375,
+      "parent_prediction": null,
+      "parent_annotation": null
+    }
+  ],
+  "file_upload": "9521cecc-APT3.txt",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+    "text": "APT3 is a China-based threat group that researchers have attributed to China's Ministry of State Security. This group is responsible for the campaigns known as Operation Clandestine Fox, Operation Clandestine Wolf, and Operation Double Tap. As of June 2015, the group appears to have shifted from targeting primarily US victims to primarily political organizations in Hong Kong. APT3 has used a tool that can obtain info about local and global group users, power users, and administrators. APT3 has been known to add created accounts to local admin groups to maintain elevated access. APT3 has used tools to compress data before exfilling it. APT3 places scripts in the startup folder for persistence. APT3 has been known to brute force password hashes to be able to leverage plain text credentials. APT3 has used PowerShell on victim systems to download and run payloads after exploitation. An APT3 downloader uses the Windows command \"cmd.exe\" /C whoami. The group also uses a tool to execute commands on remote computers. APT3 has been known to create or enable accounts, such as support_388945a0. APT3 has a tool that creates a new service for persistence. APT3 has used tools to dump passwords from browsers. APT3 will identify Microsoft Office documents on the victim's computer. APT3 has been known to stage files for exfiltration in a single location. APT3 replaces the Sticky Keys binary C:\\Windows\\System32\\sethc.exe for persistence. APT3 has a tool that exfiltrates data over the C2 channel. APT3 has exploited the Adobe Flash Player vulnerability CVE-2015-3113 and Internet Explorer vulnerability CVE-2014-1776. APT3 has a tool that looks for files and directories on the local file system. APT3 has been known to use -WindowStyle Hidden to conceal PowerShell windows."
+  },
+  "meta": {},
+  "created_at": "2022-07-22T07:00:26.948791Z",
+  "updated_at": "2022-07-22T07:14:10.281115Z",
+  "inner_id": 9,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "project": 4,
+  "updated_by": 9
+}

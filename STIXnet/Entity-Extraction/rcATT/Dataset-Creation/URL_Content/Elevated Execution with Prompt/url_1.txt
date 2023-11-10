@@ -1,0 +1,1 @@
+AuthorizationExecuteWithPrivileges | Apple Developer Documentation[object Module]

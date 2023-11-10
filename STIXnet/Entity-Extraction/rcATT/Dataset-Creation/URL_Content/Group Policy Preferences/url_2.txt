@@ -1,0 +1,1 @@
+2.2.1.1.4 Password Encryption All passwords are encrypted using a derived Advanced Encryption Standard (AES) key.<3> The 32-byte AES key is as follows: - 4e 99 06 e8 fc b6 6c c9 fa f4 93 10 62 0f fe e8 f4 96 e8 06 cc 05 79 90 20 9b 09 a4 33 b6 6c 1b

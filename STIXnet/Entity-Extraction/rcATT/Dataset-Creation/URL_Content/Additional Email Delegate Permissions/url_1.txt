@@ -1,0 +1,1 @@
+@doughsec and @MadeleyJosh talk from Shmoocon 2019. Use two case studies (BEC and APT 35) to discuss investigating and defending Office 365 tenants.

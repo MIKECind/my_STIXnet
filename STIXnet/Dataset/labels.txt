@@ -1,0 +1,16 @@
+vulnerability url sha256s domain-name file_paths
+
+location identity intrusion-set
+
+malware tool indicator threat-actor
+
+tactic attack-pattern campaign
+
+
+
+
+
+
+
+
+
